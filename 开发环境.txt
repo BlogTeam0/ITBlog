@@ -1,0 +1,4 @@
+myeclipse：2017 CI8
+jdk：8
+tomcat：8.5
+框架：现在选的是spring + mybatis + struts2 + maven
